@@ -94,7 +94,7 @@ header .logo img{
 }
 .group img{
  max-width: 100%;
-   width: auto;
+   width: 90%;
     height:auto;
     margin-left: 15%; 
     border: 3px solid azure;
