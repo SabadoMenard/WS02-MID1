@@ -163,7 +163,7 @@ header .logo img{
     box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.2);
 }
 .content-section .card {
-    width: 50%;
+    width: 0%;
     height: auto;
 }
 .card img{
