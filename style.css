@@ -65,7 +65,7 @@ header .logo img{
 }
 .pic p{
  
-   width: 60%;
+   width: auto;
    max-width: 100%;
  /* text-align: left;*/
   display: block;
