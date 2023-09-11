@@ -94,7 +94,7 @@ header .logo img{
 }
 .group img{
  max-width: 100%;
-   width: 70%;
+   width: 100%;
     height:auto;
     margin-left: 15%; 
     border: 3px solid azure;
@@ -165,6 +165,7 @@ header .logo img{
 .content-section .card {
     width: 80%;
     height: auto;
+   border-radius:20px;
 }
 .card img{
     width: 90%;
