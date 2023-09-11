@@ -60,7 +60,7 @@ header .logo img{
     border: 1px solid #38506d; 
     margin-top: -1px; 
     background-color: #64b8a3; 
-    /*padding: 10px 20px;  Add some padding */
+    
    
 }
 .pic p{
@@ -79,10 +79,10 @@ header .logo img{
    text-align: center;
     font-size: 30px;
     list-style-position: center;
-    border: 1px solid #38506d; /* Add a thin border to each list item */
-    margin-top: -1px; /* Prevent double borders */
-    background-color: #64b8a3; /* Add a grey background color */
-    padding: 10px 20px; /* Add some padding */
+    border: 1px solid #38506d; 
+    margin-top: -1px; 
+    background-color:#64b8a3;
+    padding: 10px 20px; 
    
 }
 .character ul{
@@ -109,7 +109,7 @@ header .logo img{
     height: 500px;
     width: 1450px;
     display: flex;
-    align-items: center; */     
+    align-items: center;  
 }
 
 
@@ -118,10 +118,10 @@ header .logo img{
     text-align: center;
     font-size: 30px;
     list-style-position: center;
-    border: 1px solid #38506d; /* Add a thin border to each list item */
-    margin-top: -1px; /* Prevent double borders */
-    background-color:#64b8a3; /* Add a grey background color */
-    padding: 10px 20px; /* Add some padding */
+    border: 1px solid #38506d; 
+    margin-top: -1px; 
+    background-color:#64b8a3;
+    padding: 10px 20px; 
    
 }
 .group h2{
@@ -130,10 +130,10 @@ header .logo img{
    text-align: center;
     font-size: 30px;
     list-style-position: center;
-    border: 1px solid #38506d; /* Add a thin border to each list item */
-    margin-top: -1px; /* Prevent double borders */
-    background-color: #64b8a3; /* Add a grey background color */
-    padding: 10px 20px; /* Add some padding */
+    border: 1px solid #38506d; 
+    margin-top: -1px; 
+    background-color: #64b8a3; 
+    padding: 10px 20px; 
 }
 .link ul{
     display: block;
