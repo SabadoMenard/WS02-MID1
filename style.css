@@ -43,8 +43,7 @@ header .logo img{
     
 }
 .prof h1{
-/*     font-family: Poppins;   */
-   font-style:reporter;
+    font-family: Poppins,serif;  
     display: block;
     max-width: 100%;
     text-align: center;
@@ -72,7 +71,7 @@ header .logo img{
  /* text-align: left;*/
   display: block;
   margin: 0 auto;
-  font-size: 20px;
+  font-size: 16px;
  color: #000;
 }
 .character h1{
@@ -89,7 +88,7 @@ header .logo img{
 }
 .character ul{
     
-    font-size: 20px;
+    font-size: 16px;
     display:block;
     max-width: 100%;
     margin-left: 20% ; 
