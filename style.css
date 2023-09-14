@@ -95,9 +95,10 @@ header .logo img{
 }
 .group img{
  max-width: 100%;
-   width: 80%;
+   width: 70%;
     height:auto;
-    margin-left: 20%; 
+    margin-left: 15%;
+    margin-right:15%;
     border: 3px solid azure;
     border-radius: 5%;
     text-align: center;
