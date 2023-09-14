@@ -43,7 +43,8 @@ header .logo img{
     
 }
 .prof h1{
-    font-family: Poppins;  
+/*     font-family: Poppins;   */
+   font-style:reporter;
     display: block;
     max-width: 100%;
     text-align: center;
